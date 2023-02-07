@@ -1,0 +1,15 @@
+/**
+ ****************************************************************************
+ *
+ *		@file		essentials.c
+ *  	@author 	Daniel Joseph Alapat
+ *  	@date 		08-02-2023
+ *  	@brief		Essential functions to be used through this project
+ *
+ *****************************************************************************/
+
+ /**
+ * @brief	    
+ * @param   	
+ * @return		
+ */
